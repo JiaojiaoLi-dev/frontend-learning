@@ -1,33 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>科技日报-首页</title>
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
 </head>
 
 <body>
   <!-- header部分制作 -->
   <header>
-    <h2>
-      <a href="./index.html" title="科技日报">科技日报</a>
-    </h2>
+    <h1>
+      <a href="./index.html" title="科技日报" id="top">科技日报</a>
+    </h1>
     <p>探索未来科技，传递创新力量</p>
 
     <!-- 导航栏 -->
     <nav>
       <ul>
         <li><a href="./index.html" title="首页">首页</a></li>
-        <li>
-          <a href="#" title="科技动态">科技动态</a>
-        </li>
-        <li>
-          <a href="#" title="国际科技">国际科技</a>
-        </li>
-        <li>
-          <a href="#" title="科技论坛">科技论坛</a>
-        </li>
+        <li><a href="#" title="科技动态">科技动态</a></li>
+        <li><a href="#" title="国际科技">国际科技</a></li>
+        <li><a href="#" title="科技论坛">科技论坛</a></li>
       </ul>
     </nav>
   </header>
@@ -98,8 +97,8 @@
           <td>+100%</td>
         </tr>
       </tbody>
-
     </table>
+
     <h3>
       4.读者互动
     </h3>
@@ -127,18 +126,23 @@
       <button>提交</button>
     </form>
 
-    4.科技大讲堂
-    《未来十年科技趋势》讲座节选
+    <h3>5.科技大讲堂</h3>
+
+    <video controls width="500" poster="img/poster.jpg">
+      <source src="img/video.mp4" type="video/mp4">
+    </video>
+    <p>《未来十年科技趋势》讲座节选</p>
   </main>
 
+  <!-- footer部分制作 -->
+  <footer>
+    <p>© 2025 科技日报社 版权所有</p>
+    <p>京ICP备20250001号-1</p>
+    <p>联系我们：<a href="mailto:123@qq.com">123@qq.com</a></p>
+    <p>地址：北京市大厦</p>
+    <a href="#top">返回内容顶部</a>
+  </footer>
 
-  © 2025 科技日报社 版权所有
-
-  京ICP备20250001号-1
-
-  联系我们：123@qq.com
-  地址：北京市大厦
-  返回内容顶部
 </body>
 
 </html>
