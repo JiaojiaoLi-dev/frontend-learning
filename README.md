@@ -6,7 +6,7 @@
 
 这里存放我在前端学习过程中写的小案例、练习页面、课堂作业以及整理的学习笔记等，用于记录学习进度、保存练习代码。
 
-目前需要学习pink老师的[HTML5和CSS课程](https://www.bilibili.com/video/BV1MvaVzUEuz/?spm_id_from=333.337.search-card.all.click&vd_source=7e6fe96d31f3476e52788d1efeacdb45)
+目前正在学习pink老师的[HTML5和CSS课程](https://www.bilibili.com/video/BV1MvaVzUEuz/?spm_id_from=333.337.search-card.all.click&vd_source=7e6fe96d31f3476e52788d1efeacdb45)
 
 ## 学习内容
 
