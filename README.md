@@ -4,7 +4,9 @@
 
 ## 介绍
 
-这里存放我在前端学习过程中写的小案例、练习页面、课堂作业等，用于记录学习进度、保存练习代码。
+这里存放我在前端学习过程中写的小案例、练习页面、课堂作业以及整理的学习笔记等，用于记录学习进度、保存练习代码。
+
+目前需要学习pink老师的[HTML5和CSS课程](https://www.bilibili.com/video/BV1MvaVzUEuz/?spm_id_from=333.337.search-card.all.click&vd_source=7e6fe96d31f3476e52788d1efeacdb45)
 
 ## 学习内容
 
@@ -15,11 +17,15 @@
 ## 项目结构
 
 ~~~bash
-frontend-learning/
-├── 01-tech-daily/       # 科技日报练习（HTML 小页面）
-│   ├── img/             # 页面图片资源
-│   └── index.html       # 练习页面主文件
-└── README.md            # 项目说明文档
+frontend-learning/       
+|-- 01-tech-daily   # 科技日报练习（HTML 小页面）
+|   |-- img         # 页面图片资源
+|   `-- index.html # 练习页面主文件
+|-- README.md       # 项目说明文档
+`-- notes           # 学习笔记
+    |-- HTML5.md    
+    `-- assets      # 笔记中的图片资源
+
 ~~~
 
 ## 使用方式
