@@ -19,13 +19,15 @@
 ~~~bash
 frontend-learning/       
 |-- 01-tech-daily   # 科技日报练习（HTML 小页面）
-|   |-- img         # 页面图片资源
-|   `-- index.html # 练习页面主文件
+|   |-- img         # 页面图片以及视频资源
+|   `-- index.html  # 练习页面主文件
+|-- 02-page-layout-demo
+|   `-- index.html  # 画盒子案例-网页基本布局
 |-- README.md       # 项目说明文档
 `-- notes           # 学习笔记
-    |-- HTML5.md    
+    |-- CSS.md
+    |-- HTML5.md
     `-- assets      # 笔记中的图片资源
-
 ~~~
 
 ## 使用方式
