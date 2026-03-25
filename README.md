@@ -18,17 +18,47 @@
 
 ~~~bash
 frontend-learning/       
-|-- 01-tech-daily   # 科技日报练习（HTML 小页面）
-|   |-- img         # 页面图片以及视频资源
-|   `-- index.html  # 练习页面主文件
+|-- 01-tech-daily
+|   |-- img
+|   `-- index.html
 |-- 02-page-layout-demo
-|   `-- index.html  # 画盒子案例-网页基本布局
-|-- README.md       # 项目说明文档
+|   `-- index.html
+|-- 03-denggao-poem
+|   |-- img
+|   `-- index.html
+|-- README.md
 `-- notes           # 学习笔记
     |-- CSS.md
     |-- HTML5.md
     `-- assets      # 笔记中的图片资源
 ~~~
+
+## 案例说明
+
+### 01-tech-daily
+
+科技日报练习
+
+- 了解页面结构划分
+
+
+- 熟悉HTML标签
+
+### 02-page-layout
+
+基础布局-画盒子
+
+- 体会页面基本布局
+- 练习基础选择器，学习布局界面样式
+- 体会多类名的使用技巧
+
+### 03-denggao-poem
+
+登高古诗-千古第一绝句
+
+- 练习标签，语义化标签结构更加清晰
+- 练习选择器，修饰页面样式
+- 引出文字修饰效果
 
 ## 使用方式
 
